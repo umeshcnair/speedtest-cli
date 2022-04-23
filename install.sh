@@ -31,7 +31,7 @@ rm -rf speedtest
 clear
 
 echo "SpeedTest installed"
-speep 2
+sleep 2
 echo ""
 echo " type speedtest to begin"
 sleep 1
